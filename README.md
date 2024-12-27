@@ -1,9 +1,11 @@
 Docmed - Responsive Healthcare Website
 
-Overview
+Overview:
+
   Docmed is a responsive healthcare website template built with HTML5, CSS3, and Bootstrap. Designed for hospitals, clinics, and medical centers, this template helps showcase services, departments, and expert profiles in a clean and modern layout.
 
-Features
+Features:
+
   HTML5: Semantic structure for better accessibility and SEO.
   CSS3: Custom styles with hover effects, animations, and responsive design.
   Bootstrap: Grid system and pre-designed components for responsiveness and scalability.
